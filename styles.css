@@ -1,2 +1,7 @@
-
+.holder{
+	display:flex;
+}
+.item-1{
+	align-self:center;
+}
 /* Your CSS Code here. */
